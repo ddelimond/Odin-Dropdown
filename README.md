@@ -1,7 +1,9 @@
-Odin Dropdown
-Overview
+<h1>Odin Dropdown</h1>
+
+
+<h2>Overview</h2>
+
 A lightweight, interactive dropdown menu component built as part of The Odin Project curriculum. This project demonstrates modern JavaScript DOM manipulation, event handling, and component-based architecture to create a reusable dropdown navigation system.
-Features
 
 Getting Started
 
@@ -80,3 +82,4 @@ GitHub: @ddelimond
 The Odin Project community for guidance and support
 Modern web development best practices and patterns
 Open source contributors and educators
+
